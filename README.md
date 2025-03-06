@@ -1,4 +1,1 @@
- Hi, I'm Abdul Basit, I am an aspiring Data Analyst and Machine Learning & Deep Learning expert with hands-on experience in machine learning,Deep Learning, data
- analysis, predictive modeling, Python, SQL, and Power BI. Completed multiple machine learning projects and built
- 50+ responsive websites using WordPress, Wix, and GoHighLevel (GHL). Skilled in technical management, SEO, and
- automation, seeking opportunities to apply data-driven solutions and drive business growth.
+Hi, I'm Abdul Basit. I am a Data Analyst with expertise in Machine Learning, Deep Learning, and Data Analysis. I have hands-on experience in predictive modeling, Python, SQL, and Power BI. I have completed multiple machine learning projects and developed over 50 responsive websites using WordPress, Wix, and GoHighLevel (GHL). Skilled in technical management, SEO, and automation, I am eager to apply data-driven solutions to support business growth and decision-making.
